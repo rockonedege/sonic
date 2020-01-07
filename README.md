@@ -31,3 +31,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 npm install -g @vue/cli
 ```
 - install [yarn](https://yarnpkg.com/lang/en/docs/install/#debian-stable)
+
+## plot
+- d3.js
+- echart
+- thing.js
+- three.js
+- [色块](https://blog.csdn.net/qq_36396763/article/details/78864028)
