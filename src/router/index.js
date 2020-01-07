@@ -2,12 +2,13 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Contact from '../views/Contact.vue'
+import SelectRoom from '../views/SelectRoom.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/',
+    path: '/home',
     name: 'home',
     component: Home
   },
@@ -15,6 +16,16 @@ const routes = [
     path: '/contact',
     name: 'contact',
     component: Contact
+  },
+  {
+    path: '/',
+    name: 'selectroom',
+    component: SelectRoom
+  },
+  {
+    path: '/selectroom',
+    name: 'selectroom',
+    component: SelectRoom
   },
   {
     path: '/about',
