@@ -1,4 +1,4 @@
-# sim3d
+# Sonic
 
 ## Project setup
 ```
@@ -22,3 +22,12 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Getting started
+- install [nodejs&npm](https://nodejs.org/en/) 
+- install vue-cli
+```shell
+npm install -g @vue/cli
+```
+- install [yarn](https://yarnpkg.com/lang/en/docs/install/#debian-stable)
